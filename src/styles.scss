@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import '/node_modules/angular-calendar/dist/css/angular-calendar.css';
+
+html, body, .container {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+}
